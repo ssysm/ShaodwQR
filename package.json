@@ -1,0 +1,26 @@
+{
+  "name": "ShaodwQR",
+  "version": "1.0.0",
+  "description": "QRify Secure HTTP Proxy",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.6.0",
+    "qrcode": "^1.3.2",
+    "qrcode-reader": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssysm/ShaodwQR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssysm/ShaodwQR/issues"
+  },
+  "homepage": "https://github.com/ssysm/ShaodwQR#readme"
+}
